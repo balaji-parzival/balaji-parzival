@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balaji-parzival
 - 👀 I’m interested in game dev and full stack dev
-- 🌱 I’m currently learning OOPS with java 
+- 🌱 I’m currently learning Designing and web dev
 - 💞️ I’m looking to collaborate on learning together
 - 📫 you can reach me through my e-mail: thedarkman29940@gmail.com
 
